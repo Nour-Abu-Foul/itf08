@@ -17,3 +17,4 @@ if __name__ == '__main__':
 print ("Nour")
 print ("Hi")
 print ("Hello")
+input ("Enter your name")
