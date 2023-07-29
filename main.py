@@ -14,7 +14,10 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
 print ("Nour")
 print ("Hi")
 print ("Hello")
 input ("Enter your name")
+input("Enter your age")
+input("Enter your Birthday")
